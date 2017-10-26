@@ -1,0 +1,96 @@
+---
+title: "CV"
+author: "Zenghui Xue"
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+---
+
+<br>
+
+###Education
+
+•	**Columbia University, New York, NY. **
+
+M.S., Biostatistics (Sept. 2017-May 2019(expected graduation))
+
+•	**Baylor College of Medicine, Houston, TX.**
+
+Ph.D., Biochemistry/Molecular Biology (received in June 2017)
+
+•	**Nankai University, Tianjin, China.**
+
+B.S., Biological Sciences (received in June 2009)
+
+<br>
+
+###Skills and Expertise
+
+•	Research design, scientific writing and public presentation.
+
+•	Scientific data/image analysis, and data visualization with MATLAB and R.
+
+•	Basic knowledge of statistical analysis and mathematical modelling.
+
+•	Cell biology, genetics, molecular biology, biochemistry, live cell imaging, quantitative confocal microscopy, and protein purification.
+
+<br>
+
+###Research Experiences
+
+•	**Ph.D. student, Verna and Marrs McLean Department of Biochemistry and Molecular Biology, Baylor College of Medicine, Houston, TX (June 2011-June 2017)**
+
+Project: The molecular mechanisms of actomyosin ring contraction during Drosophila embryo cleavage.
+
+Mentor: Anna Sokac, Ph.D.
+
+I combined advanced biological technologies and image/data analysis (MATLAB) to study the molecular mechanisms of cell division.
+
+•	**Undergraduate student, Nankai University, Tianjin, China (July 2008-June 2009)**
+
+Project: The X-ray structure of interferon-induced protein with tetratricopeptide repeats (IFIT).
+
+Mentor: Zihe Rao, Ph.D. and Mark Bartlam, Ph.D.
+
+I performed biochemical and biophysical experiments to understand the structure of IFIT protein.
+
+<br>
+
+###Publication
+•	**Xue, Z.** and Sokac, AM. Back-to-back mechanisms drive actomyosin ring closure during Drosophila embryo cleavage. _J. Cell Biol._ 215: 335-344 (2016). [doi.org/10.1083/jcb.201608025](http://jcb.rupress.org/content/215/3/335).
+
+This paper was featured in a Spotlight: Martin, AC. Embryonic ring closure: Actomyosin rings do the two-step. _J. Cell Biol._ 215:301–303 (2016). [doi:10.1083/jcb.201610061](http://jcb.rupress.org/content/early/2016/10/25/jcb.201610061) .
+
+<br>
+
+###Presentations
+•	“Back-to-back mechanisms drive actomyosin ring constriction during Drosophila cellularization” (Poster), American Society for Cell Biology Annual Meeting, Philadelphia, PA (2014)
+
+•	“Back-to-back mechanisms drive actomyosin ring constriction during Drosophila cellularization” (Talk), Verna and Marrs McLean Department of Biochemistry and Molecular Biology and the Department of Pharmacology Annual Research Conference, Galveston, TX (2015)
+
+•	“Back-to-back mechanisms drive actomyosin ring closure during Drosophila embryo cleavage” (Talk), American Society for Cell Biology Annual Meeting, San Diego, CA (2015)
+
+•	“Back-to-back mechanisms drive actomyosin ring closure during Drosophila embryo cleavage” (Poster), American Society for Cell Biology Annual Meeting, San Francisco, CA (2016)
+
+<br>
+
+###Additional Experiences
+•	Trainee of the Institute of Biochemistry and Cell Biology of Shanghai Institute for Biological Sciences, Shanghai, China (2009-2010)
+
+•	Teaching Assistant at the Center for the Physics of Living Cells Summer School, University of Illinois Urbana-Champaign, Champaign, IL (2013, 2014)
+
+•	Student of the Summer School of Physical Biology of the Cell at Marine Biological Laboratory, Woods Hole, MA (2016)
+
+<br>
+
+###Honors and Awards
+•	First-Class Freshmen Scholarship, Nankai University (2005)
+
+•	Third-Class Scholarship, Nankai University (2006-2007)
+
+•	Third-Class Scholarship, Nankai University (2007-2008)
+
+•	First Place in “Elevator Talk” Competition, Verna and Marrs McLean Department of Biochemistry and Molecular Biology, Baylor College of Medicine (2013, 2014)
+
+•	Honorable Mention Award for an Outstanding Research Talk, Verna and Marrs McLean Department of Biochemistry and Molecular Biology and the Department of Pharmacology Annual Research Conference, Baylor College of Medicine (2015)

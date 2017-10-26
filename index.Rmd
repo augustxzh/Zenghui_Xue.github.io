@@ -1,0 +1,11 @@
+---
+title: "Zenghui Xue"
+---
+
+### Welcome!
+
+**Howdy!  Welcome to my personal site!**
+
+My name is Zenghui Xue. I am from China, and currently a first year student in the program of Master of Science in Biostatistics in Columbia University. 
+
+Before I came to Columbia University, I worked as a Ph.D. student in a developmental and cellular biology lab in Baylor College of Medicine, Houston, TX. Thus, now I define myself as a biologist trying to learn more about quantitative theories and methods. Please step forwards to my [**CV here**](cv.html). 
