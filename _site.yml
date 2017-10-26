@@ -6,7 +6,7 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<august@gmail.com>
+      href: mailto:<augustxzh@gmail.com>
     - icon: fa-github fa-lg
       href: https://github.com/augustxzh
     - icon: fa-linkedin-square
