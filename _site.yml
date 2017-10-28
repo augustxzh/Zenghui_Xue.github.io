@@ -12,4 +12,7 @@ navbar:
     - icon: fa-linkedin-square
       href: https://www.linkedin.com/in/zenghui-xue-b803a442/
 output:
-  html_document
+  html_document:
+    theme: spacelab
+    highlight: kate
+    

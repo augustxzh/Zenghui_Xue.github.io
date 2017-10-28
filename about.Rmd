@@ -2,6 +2,4 @@
 title: "About"
 ---
 
-### About this site
-
-This site is a personal website for Zenghui Xue. This site is initially build for Data Science I Homework 4.
+This site is a personal website for Zenghui Xue. This site was initially built for Data Science I Homework 4.
